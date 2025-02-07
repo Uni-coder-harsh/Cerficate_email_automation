@@ -48,4 +48,4 @@ The script uses logging to provide information about the process. Logs include i
 
 ## License
 
-This project is licensed under Harsh. Please see the LICENSE file for more details.
+This project is licensed under MIT. Please see the LICENSE file for more details.
